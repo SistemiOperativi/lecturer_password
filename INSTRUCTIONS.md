@@ -27,7 +27,7 @@ Le regole
 
 Per sottomettere la soluzione è necessario:
 
-1. accetta l'assignment su GitHub: <https://classroom.github.com/a/3y1FbUXG>
+1. accetta l'assignment su GitHub (link reperibile su <https://sistemioperativi.github.io/it/challenges.html>)
 2. pubblica sul repository il codice utilizzato per individuare la password e un Readme 
 3. inviare una email con oggetto [OS2122-CHALLENGE-1] con:
     1. l'hash del commit con il codice da sottomettere a valutazione 
