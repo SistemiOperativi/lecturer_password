@@ -1,7 +1,7 @@
 Sfida 1: La password del docente
 ================================
 
-Nel corso della lezione :ref:`l22-12-2021` sono state trattate alcune tematiche relative ad aspetti di sicurezza.
+Nel corso della lezione tenutasi il 22-12-2021 sono state trattate alcune tematiche relative ad aspetti di sicurezza.
 In particolare, si è discusso il ruolo dei file */etc/passwd* e */etc/shadow* in sistemi GNU/Linux.
 Inoltre, sono stati illustrati alcuni dettagli riguardo i permessi ed il contenuto del file *shadow*.
 Nello specifico, è stato descritto come individuare:
